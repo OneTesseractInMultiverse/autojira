@@ -1,0 +1,13 @@
+{
+    "fields": {
+       "project":
+       {
+          "id": "%project_id%"
+       },
+       "summary": "%summary%",
+       "description": "%description%",
+       "issuetype": {
+          "id": "%issue_type_id%"
+       }
+   }
+}
